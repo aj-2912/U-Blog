@@ -28,7 +28,7 @@ public class Database {
         if (connection == null) {
 
             String url = "jdbc:mysql://localhost/ublog";
-            String username = "arjun";
+            String username = "aprameya";
             String password = "13020Ec@225";
 
             try {
