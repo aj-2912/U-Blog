@@ -139,7 +139,7 @@ public class 1Application {
         System.out.println("******Register*******");
         System.out.println("*********************");
 
-        System.out.print("Email Id: ");
+        System.out.print("Email id: ");
         String emailId;
 
         while (true) {
